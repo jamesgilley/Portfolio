@@ -1,4 +1,4 @@
-body {
+#back {
     background-image: url("./images.pg/image1.pg.jpg");
     
 }
@@ -6,4 +6,45 @@ body {
 
 #name {
  text-align: center;
+ color:rgb(63, 62, 62);
 }
+
+#bio {
+    margin: 0px 0px;
+    width: 250px;
+    color: aliceblue ;
+    font-weight: 400;
+}
+.container {
+    margin: 0%;
+}
+
+h2 {
+
+color: rgb(7, 207, 124);
+}
+
+li {
+color: aliceblue;
+}
+
+.box-2 h2 {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    font-family: serif;
+    background-color: orange;
+    color: #FFFFFF;
+}
+.box-2 h2 p {
+    color: black;
+}
+.box-2 img {
+    max-height: 200px;
+}
+.float-right {
+    float: right;
+    margin-right: 25mm;
+    margin-top: 10mm;
+}
+
