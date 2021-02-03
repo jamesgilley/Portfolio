@@ -38,7 +38,6 @@ align-items: center;
     padding: 50px;
     height: 200px;
     font-family: serif;
-    background-color: yellowgreen;
     color: #FFFFFF;
 }
 
@@ -50,6 +49,26 @@ align-items: center;
     font-family: serif;
     background-color: yellowgreen;
     color: #FFFFFF;
+}
+
+.box-2{
+    background-color: aquamarine;
+}
+
+.box-3{
+    background-color: rgb(19, 128, 91);
+    }
+
+.box-4{
+ background-color: rgb(17, 169, 240);
+}
+
+.box-5{
+    background-color: rgb(9, 63, 134)
+}
+
+.box-6{
+    background-color: rgb(127, 42, 177);
 }
 #pic {
  max-width: 300px;
